@@ -8,8 +8,8 @@ This will create two files in the same directory as thedonNLTK.py:
   2. TrumpTweetIDs.txt 
 
 After creating these files run vrbnTT.py to view most used proper nouns by default. 
-Change pos_type to a valid NLTK POS identifier
-Change most_common_to_search to desired range (Most used to least used range is determined by this variable)
+Change pos_type to a valid NLTK POS identifier  
+Change most_common_to_search to desired range (Most used to least used range is determined by this variable)  
 
 ### Requirements ###
 Python 3.5
