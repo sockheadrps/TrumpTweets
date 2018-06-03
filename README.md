@@ -4,6 +4,7 @@ This project by default processes language used by trump in his most recent twee
 It can be suited to other twitter users by changing the username in the Twitter API calls. 
 
 Fill in your API information in theDonNLTK.py and run it. 
+
 This will create two files in the same directory as thedonNLTK.py: 
   1. NaturalTweets.txt
   2. TrumpTweetIDs.txt 
