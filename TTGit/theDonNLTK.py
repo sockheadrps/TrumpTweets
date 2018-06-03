@@ -5,6 +5,7 @@ import os
 import json
 from unidecode import unidecode
 
+##Please fill the xxxx's in with your own API authentication tokens https://developer.twitter.com/en/docs.html
 ckey = 'xxxx'
 csecret = 'xxxx'
 atoken = 'xxxx'
